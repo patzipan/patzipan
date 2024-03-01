@@ -135,17 +135,6 @@ text-align: center;
 padding: 180px 0;
 }
 
-#mykki a {
-  color: black;
-}
-
-#mykki a:hover {
-	color: white;
-}
-
-#mykki p {
-  color: black;
-}
 
 #gucci {
  background-image: url('images/gucci2.jpg');
